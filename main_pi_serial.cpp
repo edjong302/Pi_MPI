@@ -10,7 +10,7 @@ double one_term_of_sum(int ii, int iN){
 int main(){
 
 	// Initial value
-	int N = 840;
+	int N = 8400;
 	
 	// Actual pi approximation
 	double pi_estimate = 0.;
